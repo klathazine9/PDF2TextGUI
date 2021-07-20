@@ -5,5 +5,5 @@ how to use.
 -go on your command line interface
 -navigate to your folder
 - run in your cli
--  $python PDF2Text.py
+-  $python gui.py
 
